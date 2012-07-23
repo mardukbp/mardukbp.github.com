@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://mardukbp.github.com/atom.xml" rel="self"/>
+  <link href="http://mardukbp.github.com/"/>
+  <updated>2012-07-22T23:41:11-05:00</updated>
+  <id>http://mardukbp.github.com/</id>
+  <author>
+    <name><![CDATA[Marduk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First post with octopress]]></title>
+    <link href="http://mardukbp.github.com/blog/2012/07/22/first-post-with-octopress/"/>
+    <updated>2012-07-22T23:39:00-05:00</updated>
+    <id>http://mardukbp.github.com/blog/2012/07/22/first-post-with-octopress</id>
+    <content type="html"><![CDATA[<p>Octopress rocks!</p>
+]]></content>
+  </entry>
+  
+</feed>
