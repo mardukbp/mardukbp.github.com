@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mardukbp.github.com/atom.xml" rel="self"/>
   <link href="http://mardukbp.github.com/"/>
-  <updated>2012-07-22T23:41:11-05:00</updated>
+  <updated>2012-07-23T00:46:25-05:00</updated>
   <id>http://mardukbp.github.com/</id>
   <author>
     <name><![CDATA[Marduk]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post with org]]></title>
+    <link href="http://mardukbp.github.com/blog/2012/07/23/first-post-with-org/"/>
+    <updated>2012-07-23T00:18:00-05:00</updated>
+    <id>http://mardukbp.github.com/blog/2012/07/23/first-post-with-org</id>
+    <content type="html"><![CDATA[<p>
+Hola emacs.
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First post with octopress]]></title>
